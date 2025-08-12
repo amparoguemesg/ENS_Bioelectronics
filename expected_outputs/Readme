@@ -1,1 +1,3 @@
-Folder containing the expected output plots from the demos. File names match those defined in the code to ensure they are easily identifiable.
+Folder containing the expected output plots from the demos. File names match those defined in the code to ensure they are easily identifiable. 
+
+Outplot plots have been generated running the notebook analysis_gut_ephys.ipynb, using rat1_distension_230714_111548_112648_Port A.pkl file.
