@@ -1,0 +1,4 @@
+This setup assumes Python ≥ 3.10.
+If you're using a virtual environment, you can install everything with:
+
+pip install -r python_requirements.txt
